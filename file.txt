@@ -1,2 +1,2 @@
-NAme: Abdullah
-Email: shakibrfarybmn@gmail.com
+name: Abdullah Nazmus-Sakib
+E-mail:shakibrybmn@gmail.com
